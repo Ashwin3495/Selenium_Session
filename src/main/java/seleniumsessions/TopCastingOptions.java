@@ -16,17 +16,17 @@ public class TopCastingOptions {
 		//2. WD d = new CD
 		//valid and recommended
 		//only for local execution
-		//WebDriver driver = new ChromeDriver();
+//		WebDriver driver = new ChromeDriver();
 		
 		
 		//3. SC d = new CD();
 		//valid but not recommended
-		//SearchContext driver = new ChromeDriver();
+//		SearchContext driver = new ChromeDriver();
 		
 		//4. WD d = new RWD();
 		//valid and recommended: remote execution
 		//used when we want to run test cases in remote machine, cloud, AWS, grid, VM
-		//WebDriver driver = new RemoteWebDriver(remoteAddress, capabilities);//os/browser
+//		WebDriver driver = new RemoteWebDriver(remoteAddress, capabilities);//os/browser
 		
 		//5. SC d = new RWD();
 		//valid but not recommended

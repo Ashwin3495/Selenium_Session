@@ -1,4 +1,4 @@
-package seleniumsessions;
+package Wait;
 
 import java.time.Duration;
 
